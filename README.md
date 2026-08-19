@@ -13,8 +13,8 @@
 </div>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Zenns's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=GodZenn">
+    <img src="https://komarev.com/ghpvc/?username=GodZenn&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Zenns's profile views" />
   </a>
 </p>
 
@@ -55,20 +55,20 @@ Welcome to my digital workspace! I'm **Reza**, widely known as **Zenns**. I am a
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="Zenns's GitHub Stats" width="48%" />
+  <a href="https://github.com/GodZenn">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GodZenn&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="Zenns's GitHub Stats" width="48%" />
   </a>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodZenn&langs_count=6&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true&cache_seconds=86400" alt="Zenns's GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=GodZenn&theme=dracula&hide_border=true&cache_seconds=86400" alt="Zenns's GitHub Streak" width="100%" />
 </div>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&radius=10" alt="Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GodZenn&theme=dracula&radius=10" alt="Activity Graph" />
 </p>
 
 ---
